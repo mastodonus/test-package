@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mastodonus/test-package/issues"
   },
-  "homepage": "https://github.com/mastodonus/test-package#readme"
+  "homepage": "https://github.com/mastodonus/test-package#readme",
+  "publishConfig": {
+    "@mastodonus:registry": "https://npm.pkg.github.com"
+  }
 }
