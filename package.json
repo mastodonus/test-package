@@ -1,0 +1,19 @@
+{
+  "name": "@mastodonus/test-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastodonus/test-package.git"
+  },
+  "author": "Adam Osmond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastodonus/test-package/issues"
+  },
+  "homepage": "https://github.com/mastodonus/test-package#readme"
+}
